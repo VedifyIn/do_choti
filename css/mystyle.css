@@ -1,0 +1,26 @@
+.address{ 
+    text-align: left;
+    color: black;
+}
+    
+.color-red{
+    color: red;
+}
+.color-yellow{
+    color: yellow;
+}
+.color-green{
+    color:#81de14;
+}
+.color-white{
+    color:#FFC107;
+}
+.color-yellow-sub{
+    color: #ffeb3b;
+    font-family: 'Oswald',sans-serif;
+    margin-bottom: 15PX;
+}
+small.text-center.center-block.color-yellow-sub {
+        color: #ffeb3b;
+
+}

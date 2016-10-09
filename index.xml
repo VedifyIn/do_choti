@@ -6,32 +6,7 @@
     <description>Recent content on Do Choti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2015 09:51:51 -0400</lastBuildDate>
     <atom:link href="https://dochoti.in/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>About Me</title>
-      <link>https://dochoti.in/about/</link>
-      <pubDate>Tue, 28 Jul 2015 09:51:51 -0400</pubDate>
-      
-      <guid>https://dochoti.in/about/</guid>
-      <description>&lt;p&gt;This placeholder page could be your &amp;ldquo;about me&amp;rdquo; page, where you detail your contact information,
-portfolio pieces, and describe yourself and your goals.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo-Geo!</title>
-      <link>https://dochoti.in/post/welcome/</link>
-      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
-      
-      <guid>https://dochoti.in/post/welcome/</guid>
-      <description>&lt;p&gt;Welcome to hugo-geo, a resposive theme for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static site generator.&lt;/a&gt; Hugo is designed for &lt;code&gt;post&lt;/code&gt; and &lt;code&gt;tutorial&lt;/code&gt; sections, and is perfect for personal
-portfolio or blog sites.&lt;/p&gt;
-
-&lt;p&gt;Why don&amp;rsquo;t you check out the  and find out how you can use hugo-geo and customize it to your liking.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
