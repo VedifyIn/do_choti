@@ -49,3 +49,22 @@
                            /* reset the font property */
   font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+
+
+.hline {
+  border: 3px solid #EEE;
+  color: #666;
+  font-family: helvetica;
+  font-weight: bold;
+  font-variant: small-caps;
+  letter-spacing: .1em;
+  line-height: 0px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.hline > span {
+  background-color: rgba(255,235,59,0.39);
+  padding: 0px 1em;
+}
